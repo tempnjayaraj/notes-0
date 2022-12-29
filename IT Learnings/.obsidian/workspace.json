@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "b103a70d3502eb18",
+    "type": "split",
+    "children": [
+      {
+        "id": "525550b96d94ecca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ebf14e261a1c1f7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20221229181520.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "616b8577993d8219",
+    "type": "split",
+    "children": [
+      {
+        "id": "af8365340b81fe2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfe82d7f2545d388",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88be86828c000f0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78c6e51199b1a9f4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44f3997b61bd9742",
+    "type": "split",
+    "children": [
+      {
+        "id": "62caacd3adbbdc6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10ecec71f2cc0c43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20221229181520.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56887010a600808a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20221229181520.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf8900644e8aa92b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3faab343e39a101c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20221229181520.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6ebf14e261a1c1f7",
+  "lastOpenFiles": [
+    "DevOps/How To's/Access WebApps running in a Linux Server inside Oracle VirtualBox.md",
+    "DevOps/How To's/Ubuntu List all running processes.md",
+    "DevOps/How To's/Connect to Linux VM via Putty.md",
+    "DevOps/Installations/Atlassian Jira - 9.5 on Ubuntu 18.04.md",
+    "DevOps/How To's/Find IP Address.md",
+    "DevOps/Untitled.md"
+  ]
+}
