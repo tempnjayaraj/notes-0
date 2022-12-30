@@ -4,20 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "525550b96d94ecca",
+        "id": "db512f8e97a7cd4d",
         "type": "tabs",
         "children": [
           {
-            "id": "6ebf14e261a1c1f7",
+            "id": "41bd591d973b921a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Picture Repository/Pasted image 20221229193744.png"
+                "file": "DevOps/How To's/Access WebApps running in a Linux Server inside Oracle VirtualBox.md",
+                "mode": "source",
+                "source": false
               }
             }
+          },
+          {
+            "id": "67fd597ca2b274d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Installations/Install GitLab on Ubuntu 18.04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ccaf7ba6297aa73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Commands/Vagrant UP Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddae413d1addce68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Commands/Vagrant UP Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "876b8aaac361ae6c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Picture Repository/Pasted image 20221229193744.png",
+                "file": "DevOps/Commands/Vagrant UP Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Picture Repository/Pasted image 20221229193744.png",
+                "file": "DevOps/Commands/Vagrant UP Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Picture Repository/Pasted image 20221229193744.png"
+                "file": "DevOps/Commands/Vagrant UP Commands.md"
               }
             }
           }
@@ -144,14 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfe82d7f2545d388",
+  "active": "ddae413d1addce68",
   "lastOpenFiles": [
-    "DevOps/Commands/Ubuntu Process Commands.md",
-    "DevOps/Commands/Ubuntu IP Commands.md",
     "DevOps/How To's/Connect to Linux VM via Putty.md",
     "DevOps/How To's/Access WebApps running in a Linux Server inside Oracle VirtualBox.md",
-    "Picture Repository/Pasted image 20221229181520.png",
+    "DevOps/How To's/To Start VM has Ubuntu using Vagrant..md",
     "DevOps/Installations/Atlassian Jira - 9.5 on Ubuntu 18.04.md",
-    "DevOps/Untitled.md"
+    "DevOps/How To's/Vagrant.md",
+    "DevOps/Commands/Vagrant Destroy Commands.md",
+    "DevOps/Commands/Vagrant UP Commands.md",
+    "DevOps/Commands/Vagrant Initialize Commands.md",
+    "DevOps/Installations/Install GitLab on Ubuntu 18.04.md",
+    "DevOps/Commands/GitLab Commands.md"
   ]
 }
