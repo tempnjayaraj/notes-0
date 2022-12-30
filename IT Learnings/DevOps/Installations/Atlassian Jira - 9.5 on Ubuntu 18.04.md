@@ -27,4 +27,4 @@ sudo ./atlassian-jira-software-9.5.0-x64.bin
 
 ### Links
 - [[Access WebApps running in a Linux Server inside Oracle VirtualBox]]
-- [[Find IP Address]]
+- [[Ubuntu IP Commands]]
