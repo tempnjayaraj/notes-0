@@ -1,5 +1,5 @@
 ## Steps
-1. Start the VM, type 'ifconfig' to get its IP address.![[Pasted image 20221229185201.png]]
+1. Start the VM, use [[Ubuntu IP Commands#^f803a0|ip command]] to get its IP address.![[Pasted image 20221229185201.png]]
 2. Open [Putty](file:///C:\Program%20%Files\PuTTY\putty.exe)
 3. Enter IP of the VM into the 'Host Name' field and click 'Open' ![[Pasted image 20221229193515.png]] 
 4. Then Putty asks for confirmation. Click 'Accept'![[Pasted image 20221229193618.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/How To's/Access WebApps running in a Linux Server inside Oracle VirtualBox.md",
+                "file": "DevOps/How To's/Start VM using Vagrant.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Installations/Install GitLab on Ubuntu 18.04.md",
+                "file": "DevOps/Installations/GitLab - 15.7 on Ubuntu 18.04.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,12 +35,8 @@
             "id": "6ccaf7ba6297aa73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Commands/Vagrant UP Commands.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -49,7 +45,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Commands/Vagrant UP Commands.md",
+                "file": "DevOps/Commands/Ubuntu GitLab Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9001bb3630c7ec17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Installations/GitLab - 15.7 on Ubuntu 18.04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e432650b4186997d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Installations/OpenSSH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5aa7c3181ba36eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Installations/GitLab - 15.7 on Ubuntu 18.04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e00ae6754ea5234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Commands/Ubuntu Repository Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,8 +107,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Commands/Vagrant UP Commands.md",
+                "file": "DevOps/How To's/Start VM using Vagrant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Commands/Vagrant UP Commands.md",
+                "file": "DevOps/How To's/Start VM using Vagrant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Commands/Vagrant UP Commands.md"
+                "file": "DevOps/How To's/Start VM using Vagrant.md"
               }
             }
           }
@@ -191,17 +234,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddae413d1addce68",
+  "active": "41bd591d973b921a",
   "lastOpenFiles": [
     "DevOps/How To's/Connect to Linux VM via Putty.md",
     "DevOps/How To's/Access WebApps running in a Linux Server inside Oracle VirtualBox.md",
-    "DevOps/How To's/To Start VM has Ubuntu using Vagrant..md",
-    "DevOps/Installations/Atlassian Jira - 9.5 on Ubuntu 18.04.md",
-    "DevOps/How To's/Vagrant.md",
-    "DevOps/Commands/Vagrant Destroy Commands.md",
-    "DevOps/Commands/Vagrant UP Commands.md",
-    "DevOps/Commands/Vagrant Initialize Commands.md",
-    "DevOps/Installations/Install GitLab on Ubuntu 18.04.md",
-    "DevOps/Commands/GitLab Commands.md"
+    "DevOps/How To's/Start VM using Vagrant.md",
+    "DevOps/Commands/Vagrant Commands.md",
+    "DevOps/Commands/Ubuntu Repository Commands.md",
+    "DevOps/Commands/Ubuntu Process Commands.md",
+    "DevOps/Commands/Ubuntu IP Commands.md",
+    "DevOps/Commands/Ubuntu Installation Commands.md",
+    "DevOps/Commands/Ubuntu GitLab Commands.md",
+    "DevOps/Installations/GitLab - 15.7 on Ubuntu 18.04.md"
   ]
 }
