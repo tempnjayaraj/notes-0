@@ -11,7 +11,7 @@ sudo apt upgrade -y
 
 ^71286f
 
-## To Add GitLab Repository
+## To Add GitLab CE 15.7 Repository
 
 ^6e34c4
 

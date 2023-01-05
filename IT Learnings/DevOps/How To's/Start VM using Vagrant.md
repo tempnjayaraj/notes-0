@@ -8,3 +8,14 @@
    ![[Pasted image 20221230122647.png]]
 ## Links
 - [[Access WebApps running in a Linux Server inside Oracle VirtualBox]]
+
+
+```mermaid
+graph TD
+A[Clone from GitHub Repository] --> C{Test passed?}
+C--> |Failed| D[Dont build as the tests have failed]
+C--> |Passed| E[Start building JAR file]
+E--> F[Push the JAR file to JFrog Artifactory]
+F--> G[Create a docker image with requirements for the application]
+G--> H[The Docker ]
+```
