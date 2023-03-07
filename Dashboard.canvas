@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"file","file":"Learnings/Learnings.md","id":"ab5c067af57f128a","x":-120,"y":-150,"width":560,"height":309,"color":"4"},
+		{"type":"file","file":"Tasks/Tasks.md","id":"5f5f1d1106d05128","x":-120,"y":-840,"width":560,"height":309,"color":"4"},
+		{"type":"file","file":"Topics/Topics.md","id":"9714d2b38bd9025c","x":480,"y":-832,"width":560,"height":293,"color":"5"},
+		{"type":"file","file":"Meetings/Meetings.md","id":"a5f797879a38f88e","x":480,"y":-150,"width":560,"height":309,"color":"5"},
+		{"type":"file","file":"Board.md","id":"f06c69b85031fb01","x":-680,"y":-840,"width":520,"height":420,"color":"3"},
+		{"type":"file","file":"Interactions/Interactions.md","id":"501d93ad43c79e49","x":-120,"y":-501,"width":560,"height":309,"color":"4"},
+		{"type":"file","file":"Projects/Projects.md","id":"099d2ecff965659f","x":480,"y":-493,"width":560,"height":293,"color":"5"},
+		{"type":"file","file":"Read Also/ReadAlso.md","id":"c8ff7f31989c1052","x":-680,"y":-80,"width":520,"height":239,"color":"6"},
+		{"id":"785fb88cf22e77e2","x":-680,"y":-380,"width":520,"height":260,"color":"6","type":"file","file":"Vocabulary/Vocabulary.md"}
+	],
+	"edges":[]
+}
