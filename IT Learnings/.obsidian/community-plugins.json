@@ -1,7 +1,12 @@
 [
-  "obsidian-kanban",
   "obsidian-admonition",
+  "obsidian-kanban",
   "dataview",
-  "drawio-obsidian",
-  "mermaid-tools"
+  "calendar",
+  "mermaid-tools",
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "dbfolder",
+  "obsidian-enhancing-export",
+  "obsidian-plantuml"
 ]

@@ -1,5 +1,11 @@
 {
-  "accentColor": "",
+  "accentColor": "#00b3ff",
   "baseFontSize": 19,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "",
+  "nativeMenus": false,
+  "translucency": false,
+  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Inter",
+  "monospaceFontFamily": "Inter"
 }

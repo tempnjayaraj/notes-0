@@ -1,0 +1,11 @@
+{
+  "tag-colors": [],
+  "metadata-keys": [
+    {
+      "metadataKey": "project",
+      "label": "Project",
+      "shouldHideLabel": true,
+      "containsMarkdown": true
+    }
+  ]
+}
